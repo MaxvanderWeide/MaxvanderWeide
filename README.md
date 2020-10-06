@@ -1,5 +1,5 @@
 ## 👋 Hi!
-#### ☀️ I am Max,
+#### ☀️ I am Max
   and I love creative... creating!
 #### 💻 I work with
   Python, Java, Angular and more...
