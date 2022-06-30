@@ -1,8 +1,11 @@
 ## 👋 Hi!
 #### ☀️ I am Max
   and I love creative... creating!
-#### 💼 I currently work on
-  a new project that will change the way we work!
-#### 📚 I am currently studying
+#### 💼 I currently work at
+  NAVARA
+#### ✅ I studied
   Software & Information Engineering
-
+#### 📚 I am currently studying
+  Business Informatics
+#
+[LinkedIn](https://www.linkedin.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Inphent](https://inphent.com/)
