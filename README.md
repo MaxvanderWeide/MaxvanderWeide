@@ -1,8 +1,6 @@
 ## 👋 Hi!
 #### ☀️ I am Max
   and I love creative... creating!
-#### 💼 I currently work at
-  NAVARA
 #### ✅ I studied
   Software & Information Engineering
 #### 📚 I am currently studying
