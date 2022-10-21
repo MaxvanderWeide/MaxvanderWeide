@@ -5,7 +5,6 @@
 
 ### Inphent creates business focused solutions, working to complete business or personal workflow in a single environment. Digitise, optimise and automate your processes.
 
-<br></br>
 ### [Uuple](https://uuple.com/)
 Your business solutions in one environment. <br>
 Chat, meet, share and plan using Uuple. <br>
